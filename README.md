@@ -1,1 +1,1 @@
-Exploration of  Audio Signal Processing for coputer science undergraduate students in signal processing alongside image processing
+Exploration of  Audio Signal Processing for Computer Science undergraduate students in signal processing alongside image processing
